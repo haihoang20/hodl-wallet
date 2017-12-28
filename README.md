@@ -4,6 +4,7 @@ Below you'll find information about performing common tasks. The most recent ver
 
 ## Table of Contents
 
+* [Usage](#usage)
 * [Updating to New Releases](#updating-to-new-releases)
 * [Available Scripts](#available-scripts)
   * [npm start](#npm-start)
@@ -26,6 +27,12 @@ Below you'll find information about performing common tasks. The most recent ver
   * [Networking](#networking)
   * [iOS Simulator won't open](#ios-simulator-wont-open)
   * [QR Code does not scan](#qr-code-does-not-scan)
+
+## Usage
+
+This app is ready to go and built in a data-driven manner. Simply edit the JSON object in `src/Utils/Constants.js` to contain your tokens and the amounts you own of each. You should also find images for each of your tokens otherwise it will default to Dogecoin. 
+
+You can then push the app out to your own Expo account to use it on your phone.
 
 ## Updating to New Releases
 

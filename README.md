@@ -2,6 +2,7 @@
 
 * [Quick Usage](#quick-usage)
 * [Getting Started](#getting-started)
+  * [Requirements](#requirements)
   * [Local Development](#local-development)
   * [Local Development Using Mobile Device](#local-development-using-local-device)
 * [Additional Notes](#additional-notes)
@@ -14,6 +15,12 @@ You can then push the app out to your own Expo account to use it on your phone.
 
 ## Getting Started
 
+## Requirements
+* node
+* yarn
+* an iOS or Android device on the same local network as your computer
+* The Expo(https://github.com/expo/expo) App installed onto your iOS or Android device
+
 ### Local Development
 
 1. Clone this project
@@ -25,8 +32,8 @@ You can then push the app out to your own Expo account to use it on your phone.
 1. Clone this project
 2. `yarn install`
 3. `yarn start`
-4. Download Expo mobile app
-5. Scan QR code from step 3 using Expo mobile app to download app to phone
+4. Open the Expo App on your mobile device and scan the QR code in the terminal window
+5. Wait for the app to finish packaging and it should be viewable on your phone
 
 ## Additional Notes
 See [this other doc](docs/create-react-native-README.MD)

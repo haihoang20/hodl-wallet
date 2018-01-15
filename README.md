@@ -1,3 +1,5 @@
+# HODL WALLET
+
 ## Table of Contents
 
 * [Quick Usage](#quick-usage)
@@ -5,6 +7,7 @@
   * [Requirements](#requirements)
   * [Local Development](#local-development)
   * [Local Development Using Mobile Device](#local-development-using-local-device)
+* [Road Map](#road-map)
 * [Additional Notes](#additional-notes)
 
 ## Quick Usage
@@ -15,7 +18,7 @@ You can then push the app out to your own Expo account to use it on your phone.
 
 ## Getting Started
 
-## Requirements
+### Requirements
 * node
 * yarn
 * an iOS or Android device on the same local network as your computer
@@ -34,6 +37,9 @@ You can then push the app out to your own Expo account to use it on your phone.
 3. `yarn start`
 4. Open the Expo App on your mobile device and scan the QR code in the terminal window
 5. Wait for the app to finish packaging and it should be viewable on your phone
+
+## Road Map
+See [this other doc](docs/ROADMAP.md)
 
 ## Additional Notes
 See [this other doc](docs/create-react-native-README.MD)

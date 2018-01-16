@@ -29,13 +29,13 @@ You may need to open up XCode and accept the terms if it's your first time. If t
 ### Local Development
 
 1. Clone this project
-2. `yarn install` (which may show an error regarding remotedev-debugger which you can ignore since it is a known bug)
+2. `yarn install`
 3. `yarn run ios` or `yarn run android`. This will start the simulator of your choice and display the app
 
 ### Local Development Using Mobile Device
 
 1. Clone this project
-2. `yarn install` (which may show an error regarding remotedev-debugger which you can ignore since it is a known bug)
+2. `yarn install`
 3. `yarn start`
 4. Open the Expo App on your mobile device, which must be connected to the same local network (usually same WiFi), and scan the QR code in the terminal window
 5. Wait for the app to finish packaging and it will be viewable on your phone
